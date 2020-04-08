@@ -9,3 +9,4 @@ SUM=$((FIRSTNUMBER + SECONDNUMBER))
 echo "$SUM"
 echo "total"
 echo "commit"
+echo "one"
